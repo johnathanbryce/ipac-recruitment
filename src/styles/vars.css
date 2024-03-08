@@ -1,0 +1,58 @@
+:root {
+    /* default / misc */
+    --default-color:'';
+    --inactive-color: '';
+    --inactive-color-light: '';
+
+    /* background */
+    --background-primary: ''; /* #F9F9F9; */
+    --background-secondary:	'';
+    --background-secondary-light: '';
+    --card-bg-primary:	'';
+    --form-bg:	'';
+
+    /* font */
+    --font-primary:	'';
+    --font-secondary: '';
+    --font-headers:	'';
+
+    /* accent */
+    --accent-primary: '';
+    --accent-primary-light: '';
+    --accent-secondary: '';
+    --accent-winner: '';
+
+    /* buttons */
+    --button-primary-text: '';
+    --button-secondary-text: '';
+    --button-hover-bg: '';
+    --button-hover-bg-secondary: '';
+    --button-padding: '';
+
+    --button-background: '';
+    --button-background-secondary: '';
+
+    /* borders */
+    --border-radius: '';
+    --border-color: '';
+
+    /* error/success */
+    --error-color: '';
+    --success-color: '';
+
+    /* box-shadow */
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    /* inputs */
+    --input-bg:	'';
+    --input-text: '';
+    --input-padding: '';
+    --input-focus-transition: '';
+    
+    /* header/footer */
+    --header-bg: '';
+    --footer-bg: '';
+
+    /* hover */
+    --hover-transition: 0.3s ease-in-out;
+}
